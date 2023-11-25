@@ -1,1 +1,1 @@
-# ArtHub-A-Virtual-Art-Gallery-And-Auction-Platform
+# ArtHub: A Virtual Art Gallery And Auction Platform
